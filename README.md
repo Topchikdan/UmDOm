@@ -1,6 +1,7 @@
 # UmDom
 
 **RU**
+--------------------------------------------––––––––––––––––––––––––––––––––––––––––––––––––––––-------------------------------------
 «УмДом+» — клиентское приложение на SwiftUI для техподдержки «умного дома». Хранит историю и FAQ в SQLite, подключается к OpenAI API (через прокси) для генерации ответов и изображений. Пользователи узнают о компании, читают FAQ, задают вопросы боту, получают ответы и могут при желании сгенерировать тематическую иллюстрацию.
 
 
@@ -33,7 +34,7 @@
     4) Сохранение истории переписки в SQLite (при перезапуске приложения история восстанавливается).
 
 **EN**
-
+--------------------------------------------––––––––––––––––––––––––––––––––––––––––––––––––––––-------------------------------------
 “UmDom+” is a SwiftUI-based client application designed for smart home technical support. It stores user history and FAQs in a local SQLite database and connects to the OpenAI API (via a proxy) to generate responses and images. Users can learn about the company, read the FAQ, ask questions to the bot, receive answers, and optionally generate themed illustrations.
 
 Overview
